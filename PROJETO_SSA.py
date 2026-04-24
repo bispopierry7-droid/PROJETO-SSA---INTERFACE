@@ -6,7 +6,7 @@ fila_hospitalar=[
     {"id" : 3,"nome": "pierry","prioridade" : 3, "idade": 18, "sintomas": "tosse"},
     {"id" : 4,"nome": "maria","prioridade" : 2, "idade": 40, "sintomas": "dor"}
 ]
-
+#CBSBJ
 def triagem_bubblesort(fila):
     n=len(fila)
     for i in range(n):
